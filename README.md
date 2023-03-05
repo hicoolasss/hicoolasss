@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Ilya, ucode it academy student 👨‍💻 styding in university since 2021 🚀</div>  
+### <div align="center">I'm Ilya, ucode it academy student 👨‍💻 styding in university sine 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on uchat.  
+- 🔭 I’m currently working on [uchat](https://github.com/hicooolasss/ucode-connect-uchat.git).  
   
 
 - 🌱 I’m currently learning css and cpp.  
@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -30,7 +30,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -42,7 +42,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 
-</td></table>  
+</td></tr></table>  
 
 <br/>  
 
@@ -78,4 +78,9 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hicoolasss&&style=flat-square" align="center" />
-</div>
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
