@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ilya, ucode it academy student 👨‍💻 styding in university since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [uchat](https://github.com/hicooolasss/ucode-connect-uchat.git).  
+- 🔭 I’m currently working on uchat.  
   
 
 - 🌱 I’m currently learning css and cpp.  
@@ -42,9 +42,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 
-  
-</td></tr></table> 
-
+</td></table>  
 
 <br/>  
 
@@ -80,8 +78,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hicoolasss&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
+</div>
