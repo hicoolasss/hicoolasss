@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ilya, ucode it academy student 👨‍💻 styding in university sine 2021 🚀</div>  
+### <div align="center">I'm Ilya, ucode it academy student 👨‍💻 styding in university since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [uchat](https://github.com/hicooolasss/ucode-connect-uchat.git).  
