@@ -19,5 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hicoolasss&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4dmh2e2e1bocm9htndnc8nnjl&cover_image=true&theme=default&show_offline=true&background_color=171722&interchange=false&bar_color=b1bae6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4dmh2e2e1bocm9htndnc8nnjl&redirect=true)
+---
+
 [![](https://visitcount.itsvg.in/api?id=hicoolasss&icon=2&color=1)](https://visitcount.itsvg.in)
 
