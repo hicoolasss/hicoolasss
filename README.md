@@ -2,11 +2,11 @@
 🔭 I’m currently working on [portfolio-website](https://serikov-ilya.vercel.app/).<br><br>🌱 I’m currently learning css, cpp and js.<br><br>👽 My life principle is To be and not to seem!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ucode-connect.slack.com/team/U041DKWM3SM) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hicoolasss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hicoolasss) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/hicoolasss) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@hicoolasss) 
 
 
-## 🗽 Languages :
+# 🗽 Languages :
 - Ukrainian - native.
 -  English - B1.
 -  Russian - native.
