@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on uchat.<br><br>🌱 I’m currently learning css, cpp and js.<br><br>👽 My life principle is To be and not to seem!
+👁️ You can find all my social networks [here](https://linktr.ee/criops?utm_source=linktree_profile_share&ltsid=366fa86c-720a-4606-a285-f513d67ff285).<br><br>🔭 I’m currently working on uchat.<br><br>🌱 I’m currently learning css, cpp and js.<br><br>👽 My life principle is To be and not to seem!
 
 
 ## 🌐 Socials:
@@ -19,4 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hicoolasss&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hicoolasss&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hicoolasss&icon=2&color=1)](https://visitcount.itsvg.in)
+
