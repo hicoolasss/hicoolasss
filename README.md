@@ -2,11 +2,11 @@
 👁️ You can find all my social networks [here](https://linktr.ee/criops?utm_source=linktree_profile_share&ltsid=366fa86c-720a-4606-a285-f513d67ff285).<br><br>🔭 I’m currently working on [portfolio-website](https://serikov-ilya.vercel.app/).<br><br>🌱 I’m currently learning css, cpp and js.<br><br>👽 My life principle is To be and not to seem!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/criops?utm_source=linktree_profile_share&ltsid=fdedfe87-2fed-4f85-abcd-b6cb2ff334eb) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ucode-connect.slack.com/team/U041DKWM3SM) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hicoolasss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hicoolasss) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/hicoolasss) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@hicoolasss) 
 
 
-## 🗽 Languages :
+# 🗽 Languages :
 - Ukrainian - native.
 -  English - B1.
 -  Russian - native.
