@@ -1,5 +1,5 @@
 # 💫 About Me:
-👁️ You can find all my social networks [here](https://linktr.ee/criops?utm_source=linktree_profile_share&ltsid=366fa86c-720a-4606-a285-f513d67ff285).<br><br>🔭 I’m currently working on [portfolio-website](https://serikov-ilya.vercel.app/).<br><br>🌱 I’m currently learning css, cpp and js.<br><br>👽 My life principle is To be and not to seem!
+👁️ You can find all my social networks [here](https://linktr.ee/criops?utm_source=linktree_profile_share&ltsid=366fa86c-720a-4606-a285-f513d67ff285).<br><br>🔭 I’m currently working on [portfolio-website](https://serikov-ilya.vercel.app/).<br><br>🌱 I’m currently learning c#, Entity Framework, ADO.NET and node.js.<br><br>👽 My life principle is To be and not to seem!
 
 
 # 🌐 Socials:
